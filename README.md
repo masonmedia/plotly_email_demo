@@ -10,8 +10,8 @@ In the final section, the side-by-side 50% columns are not exactly sized like th
 
 Images are hosted on gh-pages and are accessible for email clients.
 
-Dark mode version is accessible via dark mode link in the footer.
+Dark mode version is available at `dark.html`.
 
 Parcel bundler was used for development.
 
-Email was tested in gmail, hotmail, outlook clients.
+Email was tested in gmail, hotmail, outlook clients, on MacOS desktop and iOS iPhone.
